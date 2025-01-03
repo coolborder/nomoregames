@@ -6,9 +6,9 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "pizzaman33.nomoregames",
-	"name": "NoMoreGames",
+	"id": "coolborder.nomoregames",
+	"name": "coolborder",
 	"version": "v1.0.0",
-	"developer": "pizzaman33",
+	"developer": "coolborder",
 	"description": "Removes the 'More Games' button completly."
 }
